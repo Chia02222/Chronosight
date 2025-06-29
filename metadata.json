@@ -1,0 +1,6 @@
+{
+  "name": "ChronoSight: Your Window to the Past",
+  "description": "An application that allows users to select a location and visualize how it might have looked in different historical eras, alongside its modern appearance, using AI-generated images and narratives.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
