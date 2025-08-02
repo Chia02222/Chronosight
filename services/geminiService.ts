@@ -8,7 +8,7 @@ if (!API_KEY) {
 }
 const ai = new GoogleGenAI({ apiKey: API_KEY! }); 
 
-const TEXT_MODEL_NAME = "gemini-2.5-flash-preview-04-17";
+const TEXT_MODEL_NAME = "gemini-2.5-flash";
 // Use the new image generation model as requested.
 const IMAGE_MODEL_NAME = "gemini-2.0-flash-preview-image-generation";
 
